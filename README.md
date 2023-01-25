@@ -25,16 +25,17 @@ end the program
 
 # Program:
 #Program to circulate N values.
-#Developed by: Rajesh . A
+#Developed by: Rajesh A
 #RegisterNumber: 22008551
+```
 def circulate():
     circul=l[n:]+l[:n]
     print("After circulating the values are:",circul)
 l=eval(input())
 n=int(input())
+```
 # Output:
-
-![circulates the n varaibles](https://user-images.githubusercontent.com/118924713/214574869-ae2a0667-aed8-4ff5-b6fd-ee22fa77b5e1.png)
+![Screenshot_20230125_071302](https://user-images.githubusercontent.com/118924713/214579068-f7540c04-5844-4bdb-941e-1ab31353889b.png)
 
 # Result:
 Thus the program executed successfully..
